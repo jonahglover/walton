@@ -1,0 +1,9 @@
+{
+	"name": "walton",
+	"author":"Jonah Glover",
+	"version":"0.0.3",
+	"description":"Walmart API Module",
+	"dependencies" : {
+		"request" : "*"
+	}
+}
